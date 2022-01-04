@@ -1,0 +1,8 @@
+cmd promp
+dir - lista de pastas
+cls - limpar
+rmdmir
+
+git init
+gi add
+git commit
